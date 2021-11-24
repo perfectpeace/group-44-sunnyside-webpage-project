@@ -104,7 +104,7 @@ All, Practice... Practice and Practice.
 
 ### Useful resources
 
--  [SideHustle](https://www.sidehustle.com)- Sidehustle is a remote (online) internship program which proffers high-income skills which endows you with a lot of competative advantage towards landing a lucrative job... it's featured with well trained mentors who specializes in distinct field of professions and are invariably ready to give in their all for the progess of the intern cohorts. we've learnt at lot since we initiated our Journey with sidehustle as a team. 
+-  [SideHustle](https://sidehustle.ng/)- Sidehustle is a remote (online) internship program which proffers high-income skills which endows you with a lot of competative advantage towards landing a lucrative job... it's featured with well trained mentors who specializes in distinct field of professions and are invariably ready to give in their all for the progess of the intern cohorts. we've learnt at lot since we initiated our Journey with sidehustle as a team. 
 
 -  [Youtube](https://www.youtube.com) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
 
