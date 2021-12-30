@@ -108,11 +108,9 @@ All, Practice... Practice and Practice.
 
 -  [Youtube](https://www.youtube.com) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
 
-## Author
+## Author 
 
--  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
-
--  Github - [Dike.O.Clinton](https://github.com/Dike-Code)
+Group 44
 
 ## Acknowledgments
 
