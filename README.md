@@ -1,4 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page solution
+# Frontend Challenge - Sunnyside agency landing page solution
 https://perfectpeace.github.io/group-44-sunnyside-webpage-project/
 
 ## Table of contents
